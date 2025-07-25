@@ -1,0 +1,11 @@
+langchain_community 
+langchain-openai
+langchain-anthropic
+scikit-learn 
+bs4 
+pandas 
+pyarrow 
+matplotlib 
+lxml 
+langgraph 
+mcp[cli]

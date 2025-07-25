@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "langgraph-mcp": {
+            "command": "/Users/shaheer/Desktop/Code/test-mcp/.venv/bin/python",
+            "args": [
+                "/Users/shaheer/Desktop/Code/test-mcp/langgraph-mcp.py"
+            ],
+            "env": {
+                "OPENAI_API_KEY": "<your-openai-api-key>"
+            }
+        }
+    }
+}
